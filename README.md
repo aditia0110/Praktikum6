@@ -1,5 +1,7 @@
 # Praktikum6
 
+## Latihan Dictionary pada python membuat program crud sederhana
+
 Repository ini dibuat untuk memenuhi tugas `Module Praktikum 5`, `Pertemuan 10`, Mata Kuliah Bahasa Pemrograman
 
 Nama    : Aditia Seftiawan
@@ -59,6 +61,11 @@ Tugas `Module Praktikum 5-Pertemuan 10` Dosen memberi tugas latihan sebagai beri
 2. Langkah selanjutnya run, dan akan keluar hasil seperti berikut ini :
 
 <img width="602" alt="image" src="https://user-images.githubusercontent.com/115475348/204064251-12da3275-f94c-4586-b78c-eb2c296633c4.png">
+
+3. Selanjutnya kita akan membuat program crud sederhana dan berikut `flowchart` program yang dibuat :
+
+
+![image](https://user-images.githubusercontent.com/115475348/204071198-68802385-f9fc-4768-8ebe-3b19f180eab6.png)
 
 
 **Berikut ini adalah soal tugas Praktikum pada `Module Praktikum 5` :**
@@ -222,27 +229,27 @@ Berikut ini adalah hasil yang diinginkan pada Tugas `Praktikum 5`
 2. Langkah selanjutnya run program tersebut dan uraikan satu persatu dan berikut ini adalah hasilnya :
 
 
-* Pilih (T) untuk menambahkan data, dan hasilnya seperti berikut ini :
+* `Pilih (T)` untuk menambahkan data, dan hasilnya seperti berikut ini :
 
 <img width="603" alt="image" src="https://user-images.githubusercontent.com/115475348/204065539-78716a37-c213-4c8a-9ce1-7cfb3741605c.png">
 
-* Pilih (L) untuk melihat data, dan hasilnya seperti berikut ini :
+* `Pilih (L)` untuk melihat data, dan hasilnya seperti berikut ini :
 
 <img width="460" alt="image" src="https://user-images.githubusercontent.com/115475348/204065592-d5598be3-27e0-413a-9906-420041739204.png">
 
-* Pilih (U) untuk merubah data, dan hasilnya seperti berikut ini :
+* `Pilih (U)` untuk merubah data, dan hasilnya seperti berikut ini :
 
 <img width="507" alt="image" src="https://user-images.githubusercontent.com/115475348/204065841-684ef341-4c63-4e8c-8744-f78cc9793929.png">
 
-* Pilih (C) untuk mencari data yang telah diinput, dan hasilnya seperti berikut ini :
+* `Pilih (C)` untuk mencari data yang telah diinput, dan hasilnya seperti berikut ini :
 
 <img width="413" alt="image" src="https://user-images.githubusercontent.com/115475348/204065912-dd4e3bee-d2d3-4cf4-80cc-839656bc4e74.png">
 
-* Pilih (H) untuk menghapus data yang ingin di hapus, hasilnya seperti berikut ini :
+* `Pilih (H)` untuk menghapus data yang ingin di hapus, hasilnya seperti berikut ini :
 
 <img width="413" alt="image" src="https://user-images.githubusercontent.com/115475348/204065989-20571b22-17ed-4b8a-b2a5-c979ef37009a.png">
 
-* Pilih (K) untuk keluar dari program aplikasi, dan hasil nya seperti berikut ini :
+* `Pilih (K)` untuk keluar dari program aplikasi, dan hasil nya seperti berikut ini :
 
 <img width="369" alt="image" src="https://user-images.githubusercontent.com/115475348/204066441-8dd04821-31e6-4cc0-965f-29b3a80afdfc.png">
 
